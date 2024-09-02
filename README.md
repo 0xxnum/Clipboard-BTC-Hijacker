@@ -40,7 +40,3 @@ When a Bitcoin address is detected in the clipboard, it will be replaced with th
 
 **Disclaimer**
 This script is for educational purposes only. Unauthorized use of this tool for malicious activities is illegal and unethical. Always ensure you have proper authorization before using or testing this script.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
